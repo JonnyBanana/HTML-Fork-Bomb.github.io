@@ -1,7 +1,5 @@
 # HTML-Fork-Bomb.github.io
 
-![Alt text](https://raw.githubusercontent.com/JonnyBanana/HTML-Fork-Bomb.github.io/master/img/1300px-Fork_bomb.png)
-
 </BR></BR>
 
 I created a simple Fork Bomb page using just a few html, css and javascript.
@@ -19,6 +17,8 @@ https://github.com/aaronryank/fork-bomb
 <h3>Fork Bomb Explanation</h3>
 
 https://it.wikipedia.org/wiki/Fork_bomb
+
+![Alt text](https://raw.githubusercontent.com/JonnyBanana/HTML-Fork-Bomb.github.io/master/img/1300px-Fork_bomb.png)
 
 </BR>
 
