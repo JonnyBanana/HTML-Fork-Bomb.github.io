@@ -1,7 +1,5 @@
 # HTML-Fork-Bomb.github.io
 
-</BR></BR>
-
 I created a simple Fork Bomb page using just a few html, css and javascript.
 
 Opening the page the browser will try to open many popups </BR>
