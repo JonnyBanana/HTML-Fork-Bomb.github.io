@@ -8,7 +8,6 @@
 
 https://it.wikipedia.org/wiki/Fork_bomb
 
-</BR>
 
 <h3> Browser Compatibility </h3>
 
