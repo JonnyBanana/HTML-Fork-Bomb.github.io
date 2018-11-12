@@ -2,7 +2,7 @@
 
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/HTML-Fork-Bomb.github.io/master/img/1300px-Fork_bomb.png)
 
-</BR>
+</BR></BR>
 
 <h3>Fork Bomb Explanation</h3>
 
