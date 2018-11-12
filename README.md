@@ -7,7 +7,8 @@
 I created a simple Fork Bomb page using just a few html, css and javascript.
 
 Opening the page the browser will try to open many popups </BR>
-(in new browsers you must first give permission, otherwise they are locked by default)
+(in new browsers you must first give permission, otherwise they are locked by default),</BR>
+until all the computer's ram is used, resulting in a browser crash!
 
 For this project I was inspired by this fantastic fork-bomb list:
 
