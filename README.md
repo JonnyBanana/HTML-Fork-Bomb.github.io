@@ -31,3 +31,14 @@ Try at your Risk Here: https://jonnybanana.github.io/HTML-Fork-Bomb.github.io/
 </BR>
 
 ![Alt text](https://github.com/JonnyBanana/HTML-Fork-Bomb.github.io/blob/master/img/firefox-boom.JPG)
+
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
